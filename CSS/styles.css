@@ -1,0 +1,26 @@
+/*This is CSS Code*/
+/*We select the part of our code that we want to change*/
+body {
+    background-color: #e3fdfd;
+}
+
+/*Changing the horizontal rule*/
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gainsboro;
+    border-width: 5px;
+    width: 4%;
+}
+
+h1 {
+    color: #08d9d6;
+}
+
+h2 {
+    color: #00adb5;
+}
+
+h3 {
+    color: #00adb5;
+}
