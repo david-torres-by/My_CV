@@ -1,0 +1,30 @@
+h1 { 
+    margin-top: 0px; 
+}
+
+body {
+    margin: 0;
+}
+
+/************ Class Selectors ***********/
+
+.top_container {
+    background-color: #f4f9f9;
+    width: 200px;
+    height: 200px;
+}
+     
+.middle_container {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.bottom_container {     
+    width: 200px;
+    height: 200px;
+    background-color: royalblue;
+}
+
+
+
