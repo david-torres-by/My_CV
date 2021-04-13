@@ -153,6 +153,11 @@ hr {
     font-weight: bold;
 }
 
+.footer_link {
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
 .middle_container {
     margin: auto;
     width: 50%;
@@ -189,8 +194,8 @@ hr {
 .achievements {
     margin: 0px auto auto auto;
     margin: auto;
-    width: 85%;
     background-color: #e4f9f5;
+    padding-left: 10px;
 }
 
 * {
@@ -199,12 +204,10 @@ hr {
 
 .row {
     display: flex;
-
 }
 
 /* Create three equal columns that sits next to each other */
 .column {
     flex: 33.33%;
-    padding: 10px;
-    
+    padding: 15px;
 }
