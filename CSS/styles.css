@@ -49,11 +49,8 @@ hr {
 }
 
 table {
-    margin: 2% auto 5% auto;
+    margin: 2% auto auto auto;
 }
-
-
-
 
 /************ Class Selectors ***********/
 
@@ -331,7 +328,6 @@ table {
     position: relative;
     padding-top: 5%;
     height: 100%;
-    padding-top: 1%;
     margin: auto auto;
 }
 
@@ -346,24 +342,78 @@ table {
     border: 1px solid rgba(0, 0, 0, 0.3);
     border-radius: 5px;
     overflow: hidden;
-    box-shadow: 0 0 10px #2187e7b3;
+    box-shadow: 0 0 10px #057ef0b3;
     width: 300px;
 }
 
 .table1 {
     padding-right: 100px;
-    margin-bottom: 50px;
     text-align: left;
-    height: 8rem;
 }
 
 .table2 {
     padding-left: 100px;
-    margin-bottom: 50px;
     text-align: left;
-    height: 8rem;
 }
 
-.empty {
-    margin-top: 20px;
+.bar span{
+    height: 5px;
+    float: left;
+    background: #4892d8;
+}
+
+.python {
+    width: 80%;
+}
+
+.sql {
+    width: 60%;
+}
+
+.pandas {
+    width: 65%;
+}
+
+.flask {
+    width: 50%;
+}
+
+.github {
+    width: 80%;
+}
+
+.powershell {
+    width: 50%;
+}
+
+.bootstrap {
+    width: 40%;
+}
+
+.azure {
+    width: 60%;
+}
+
+.html {
+    width: 75%;
+}
+
+.it_consulting {
+    width: 70%;
+}
+
+.powerquery {
+    width: 60%;
+}
+
+.rest_apis {
+    width: 60%;
+}
+
+.public_speaking {
+    width: 70%;
+}
+
+.writing {
+    width: 60%;
 }
