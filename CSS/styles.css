@@ -327,7 +327,6 @@ table {
     background-color: #e4f9f5;
     position: relative;
     padding-top: 5%;
-    height: 100%;
     margin: auto auto;
 }
 
@@ -416,4 +415,18 @@ table {
 
 .writing {
     width: 60%;
+}
+
+.working_on {
+    margin: auto auto auto auto;
+    width: 50%;
+}
+
+.skills_bottom_container {
+    padding-top: 1%;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #11999E;
+    padding-bottom: .5%;
+    font-weight: bold;
+    color: white;
 }
