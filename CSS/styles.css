@@ -430,3 +430,12 @@ table {
     font-weight: bold;
     color: white;
 }
+
+.skills_bottom_container {
+    padding-top: 1%;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #11999E;
+    padding-bottom: .5%;
+    font-weight: bold;
+    color: white;
+}
